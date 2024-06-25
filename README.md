@@ -23,15 +23,38 @@
 
 <a href="https://www.linkedin.com/in/abdelrahman-montaser-839600280/" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman Montaser -0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100042878015702&mibextid=ZbWKwL" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman Montaser -0077B5?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=sass)&nbsp;
+
+### 🛠 &nbsp;Tech Skills
+
+<p align="left">  
+<a >
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=flutter&animation=spin&svgfill=15d8fe">  
+ </a>
+ <a href=">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=dart&svgfill=15d8fe">  
+ </a>
+  <a href="">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=8ed5fa">
+</a>
+ <a href="">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=659b60">
+</a>
+<a href="">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=df5c43">  
+</a>
+<a href="">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=java&svgfill=cd6799">
+</a>
+
+
+<!-- <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
+</a> -->
+<a href="">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=windows&svgfill=f6df1c">
+</a>
+
+</p>
 
 
 
